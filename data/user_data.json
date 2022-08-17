@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Lillian",
+        "password": "Hello Github!",
+        "forPlatform": "Github",
+        "key": "python-is-kinda-fun"
+    },
+    {
+        "name": "Lillian",
+        "password": "Hello world!",
+        "forPlatform": "Github",
+        "key": "pig123"
+    }
+]
